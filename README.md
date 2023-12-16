@@ -15,7 +15,6 @@ Will be updated soon
 https://scholar.google.co.in/citations?user=lCVwC0EAAAAJ&hl=en
 
 ## Installation details of the App
-LIBS_peak_finder Executable
 
 1. Prerequisites for Deployment 
 
