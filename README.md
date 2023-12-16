@@ -14,8 +14,63 @@ Will be updated soon
 ## For more related articles
 https://scholar.google.co.in/citations?user=lCVwC0EAAAAJ&hl=en
 
-## About Synthetic test data and code
-The details of the 300 synthetic test spectra
+## Installation details of the App
+LIBS_peak_finder Executable
+
+1. Prerequisites for Deployment 
+
+Verify that version 9.12 (R2022a) of the MATLAB Runtime is installed.   
+If not, you can run the MATLAB Runtime installer.
+To find its location, enter
+  
+    >>mcrinstaller
+      
+at the MATLAB prompt.
+NOTE: You will need administrator rights to run the MATLAB Runtime installer. 
+
+Alternatively, download and install the Windows version of the MATLAB Runtime for R2022a 
+from the following link on the MathWorks website:
+
+    https://www.mathworks.com/products/compiler/mcr/index.html
+   
+For more information about the MATLAB Runtime and the MATLAB Runtime installer, see 
+"Distribute Applications" in the MATLAB Compiler documentation  
+in the MathWorks Documentation Center.
+
+2. Files to Deploy and Package
+
+Files to Package for Standalone 
+================================
+-LIBS_peak_finder.exe
+-MCRInstaller.exe 
+    Note: if end users are unable to download the MATLAB Runtime using the
+    instructions in the previous section, include it when building your 
+    component by clicking the "Runtime included in package" link in the
+    Deployment Tool.
+-This readme file 
+
+
+
+3. Definitions
+
+For information on deployment terminology, go to
+https://www.mathworks.com/help and select MATLAB Compiler >
+Getting Started > About Application Deployment >
+Deployment Product Terms in the MathWorks Documentation
+Center.
+
+## Test data
+The App is tested on the following samples. All the input files are in .txt format
+1.Plastics
+2.Silicon
+3.Isomer
+4.Tooth
+5.Nicke
+6.Soil
+
+
+
+details of the 300 synthetic test spectra
 
 "y_test_300_merge_spectra3.npy"---> referes to the true Raman signal and data can be found here https://github.com/Junjuri/LUT/blob/main/y_test_300_merge_spectra3.npy
 
@@ -40,13 +95,6 @@ The experimental CARS test data set used in this investigation can only be provi
 
 ## About the trained model weights
 
-"CNN_model_weights can be found here https://github.com/Junjuri/LUT/blob/main/Polynomial_NRB_model_weights.h5 with a name 'Polynomial_NRB_model_weights.h5' 
-
-"LSTM_model_weights.h5" --->referes weights of the model trained with LSTM.
-
-"VECTOR_model_weights.h5" --->referes weights of the model trained with VECTOR can be accseed via request at ali.saghi.2015@gmail.com or rajendhar.j2008@gmail.com
-
-"Bi_LSTM_model_weights.h5" --->referes weights of the model trained with Bi-LSTM
 
 ## Getting Started and Requirements 
 You can use Python (TensorFlow 2.7.0) to test the pre-trained network. We have tested it in Spyder.
