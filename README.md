@@ -29,13 +29,12 @@ For more information about the MATLAB Runtime and the MATLAB Runtime installer, 
 Files to Package for Standalone 
 
 -LIBS_peak_finder.exe
--MCRInstaller.exe 
-    Note: if end users are unable to download the MATLAB Runtime using the
-    instructions in the previous section, include it when building your 
-    component by clicking the "Runtime included in package" link in the
-    Deployment Tool.
--This readme file 
 
+-MCRInstaller.exe 
+
+**Note: ** if end users are unable to download the MATLAB Runtime using the instructions in the previous section, include it when building your component by clicking the "Runtime included in package" link in then Deployment Tool.
+
+-This readme file 
 
 **3. Definitions**
 
