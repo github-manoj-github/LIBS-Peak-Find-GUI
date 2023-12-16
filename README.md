@@ -18,7 +18,7 @@ If not, you can run the _MATLAB Runtime installer_. To find its location, enter 
 
 **NOTE:** You will need administrator rights to run the _MATLAB Runtime installer_. 
 
-Alternatively, download and install the Windows version of the MATLAB Runtime for R2022a 
+Alternatively, download and install the Windows version of the _MATLAB Runtime_ for R2022a 
 from MathWorks [website](https://www.mathworks.com/products/compiler/mcr/index.html)
    
 For more information about the MATLAB Runtime and the MATLAB Runtime installer, see 
