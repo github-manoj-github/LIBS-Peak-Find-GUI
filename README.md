@@ -16,7 +16,7 @@ https://scholar.google.co.in/citations?user=lCVwC0EAAAAJ&hl=en
 
 ## Installation details of the App
 
-**1. Prerequisites for Deployment **
+**1. Prerequisites for Deployment**
 
 Verify that version 9.12 (R2022a) of the MATLAB Runtime is installed.   
 If not, you can run the MATLAB Runtime installer.
@@ -49,8 +49,8 @@ Files to Package for Standalone
 -This readme file 
 
 
+**3. Definitions**
 
-3. Definitions
 
 For information on deployment terminology, go to
 https://www.mathworks.com/help and select MATLAB Compiler >
