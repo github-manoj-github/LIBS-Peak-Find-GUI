@@ -1,6 +1,6 @@
 ## LIBS-Peak-Find-GUI
 
-By [Rajendhar junjuri](https://scholar.google.co.in/citations?user=BRu_wuAAAAAJ&hl=en)\,  and [Erik M. Vartiainen](https://scholar.google.co.in/citations?user=zbxe2qYAAAAJ&hl=en&oi=ao) 
+By [Rajendhar junjuri](https://scholar.google.co.in/citations?user=BRu_wuAAAAAJ&hl=en)\,  and [Manoj Kumar Gundawar](https://scholar.google.co.in/citations?user=lCVwC0EAAAAJ&hl=en) 
 
 These four models are different from each other viz, convolutional neural network (CNN), Long short-term memory (LSTM) neural network, very deep convolutional autoencoders (VECTOR), and Bi-directional LSTM (Bi – LSTM) neural network. 
 
