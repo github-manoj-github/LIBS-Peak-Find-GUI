@@ -12,7 +12,7 @@ DOI: https://doi.org/10.1039/D3CP01618H
 Junjuri, R., Saghi, A., Lensu, L., & Vartiainen, E. M. (2023). Evaluating different deep learning models for efficient extraction of Raman signals from CARS spectra. Physical Chemistry Chemical Physics, 25(24), 16340-16353.
 
 ## For more related articles
-https://scholar.google.co.in/citations?hl=en&user=BRu_wuAAAAAJ&view_op=list_works&sortby=pubdate
+https://scholar.google.co.in/citations?user=lCVwC0EAAAAJ&hl=en
 
 ## About Synthetic test data and code
 The details of the 300 synthetic test spectra
