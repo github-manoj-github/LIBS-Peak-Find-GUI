@@ -8,9 +8,6 @@ This Graphical User Interface is developed for the detection of peaks in a LIBS 
 ## The article can be accessed here
 DOI: Will be updated soon
 
-## Citation
-Will be updated soon
-
 ## ## Getting Started and Requirements 
 
 Installation details of the App
@@ -65,6 +62,8 @@ The App is tested on the following samples. All the input files are in .txt form
 5.Nicke
 6.Soil
 
+## Citation
+Will be updated soon
 
 ## For more related articles
 https://scholar.google.co.in/citations?user=lCVwC0EAAAAJ&hl=en
