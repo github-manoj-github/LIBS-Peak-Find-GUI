@@ -3,7 +3,7 @@
 
 By [Manoj Kumar Gundawar](http://www.acrhem.org/manoj.html) , Amal, and, [Rajendhar junjuri](https://scholar.google.co.in/citations?user=BRu_wuAAAAAJ&hl=en)
 
-This Graphical User Interface is developed for the detection of peaks in a LIBS spectrum. This app is not only quick and effective but is also highly interactive and intuitive. A LIBS spectrum contains a large number of peaks representing the constituent atoms of the material under investigation. Given the varied nature of these peaks, finding all the peaks of interest is a tedious and often time-consuming task. This GUI can facilitate researchers worldwide who are engaged with LIBS data analysis by streamlining the process, ensuring ease and intuitiveness while also accurately detecting all the desired peaks. Particularly, an option to find the peaks in a sub-spectrm makes it a very powerful tool. The GUI additionally serves as a tool for exploring the spectrum with specialized functionalities of zoom-out and auto-stepper. These options open up a new avenue for LIBS researchers, which will augment their initial data comprehension. The information of the peaks found is saved interactively, which is crucial for various downstream analyses. 
+This Graphical User Interface is developed for the detection of peaks in a LIBS spectrum. This app is not only quick and effective but is also highly interactive and intuitive. This GUI can facilitate researchers worldwide who are engaged with LIBS data analysis by streamlining the process, ensuring ease and intuitiveness while also accurately detecting all the desired peaks.  The information of the peaks found is saved interactively, which is crucial for various downstream analyses. 
 
 ## The article can be accessed here
 DOI: Will be updated soon
