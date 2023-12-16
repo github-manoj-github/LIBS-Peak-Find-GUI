@@ -45,7 +45,7 @@ Deployment Product Terms in the MathWorks Documentation
 Center.
 
 ## Test data
-The App is tested on the following samples. All the input files are in .txt format
+The App is tested on the following samples. All the input files are in _.txt_ format
 
 1.Plastics
 
