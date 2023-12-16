@@ -26,9 +26,10 @@ For more information about the MATLAB Runtime and the MATLAB Runtime installer, 
 
 **2. Files to Deploy and Package**
 
-Files to Package for Standalone 
+Files to Package for Standalone installation
 
 LIBS_peak_finder.exe
+
 MCRInstaller.exe 
 
 **NOTE:** if end users are unable to download the MATLAB Runtime using the instructions in the previous section, include it when building your component by clicking the "Runtime included in package" link in then Deployment Tool.
