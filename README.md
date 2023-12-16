@@ -10,8 +10,6 @@ DOI: Will be updated soon
 
 ## Getting Started and Requirements 
 
-Installation details of the App
-
 **1. Prerequisites for Deployment**
 
 Verify that version 9.12 (R2022a) of the MATLAB Runtime is installed.   
