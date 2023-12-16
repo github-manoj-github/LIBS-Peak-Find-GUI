@@ -39,7 +39,7 @@ in the MathWorks Documentation Center.
 2. Files to Deploy and Package
 
 Files to Package for Standalone 
-================================
+
 -LIBS_peak_finder.exe
 -MCRInstaller.exe 
     Note: if end users are unable to download the MATLAB Runtime using the
