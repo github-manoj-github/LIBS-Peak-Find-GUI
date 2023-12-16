@@ -41,8 +41,11 @@ MCRInstaller.exe
 For information on deployment terminology, go to
 https://www.mathworks.com/help and select MATLAB Compiler >
 Getting Started > About Application Deployment >
-Deployment Product Terms in the MathWorks Documentation
-Center.
+Deployment Product Terms in the MathWorks Documentation Center.
+
+**4. How to use the App**
+
+A detailed text with relevant figures is available in the user guide. It is available here. 
 
 ## Test data
 The App is tested on the following samples. All the input files are in _.txt_ format.
