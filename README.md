@@ -50,7 +50,6 @@ Files to Package for Standalone
 
 **3. Definitions**
 
-
 For information on deployment terminology, go to
 https://www.mathworks.com/help and select MATLAB Compiler >
 Getting Started > About Application Deployment >
@@ -65,12 +64,6 @@ The App is tested on the following samples. All the input files are in .txt form
 4.Tooth
 5.Nicke
 6.Soil
-
-## About the experimental CARS test data
-The experimental CARS test data set used in this investigation can only be provided upon request and can contact [Erik M. Vartiainen](https://research.lut.fi/converis/portal/detail/Person/56843?auxfun=&lang=en_GB) 
-
-## About the training codes
-
 
 
 ## For more related articles
