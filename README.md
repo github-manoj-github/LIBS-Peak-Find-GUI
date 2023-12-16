@@ -45,7 +45,9 @@ Deployment Product Terms in the MathWorks Documentation Center.
 
 **4. How to use the App**
 
-A detailed text with relevant figures is available in the user guide. It is available here. 
+A detailed text with relevant figures is available in the user guide. 
+It is available [here](https://github.com/github-manoj-github/LIBS-Peak-Find-GUI/blob/main/User%20Guide.docx)
+
 
 ## Test data
 The App is tested on the following samples. All the input files are in _.txt_ format.
