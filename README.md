@@ -22,8 +22,7 @@ Alternatively, download and install the Windows version of the MATLAB Runtime fo
 from the following link on the MathWorks website: https://www.mathworks.com/products/compiler/mcr/index.html
    
 For more information about the MATLAB Runtime and the MATLAB Runtime installer, see 
-"Distribute Applications" in the MATLAB Compiler documentation  
-in the MathWorks Documentation Center.
+"Distribute Applications" in the MATLAB Compiler documentation in the MathWorks Documentation Center.
 
 **2. Files to Deploy and Package**
 
