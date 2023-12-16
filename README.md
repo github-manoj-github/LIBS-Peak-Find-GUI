@@ -52,9 +52,7 @@ It is available [here](https://github.com/github-manoj-github/LIBS-Peak-Find-GUI
 ## Test data
 The App is tested on the following samples. All the input files are in _.txt_ format.
 
-1.Plastics
-
-2.Silicon
+1.Plastics,  2.Silicon
 
 3.Isomer
 
