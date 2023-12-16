@@ -6,10 +6,10 @@ By [Manoj Kumar Gundawar](http://www.acrhem.org/manoj.html) , Amal, and, [Rajend
 This Graphical User Interface is developed for the detection of peaks in a LIBS spectrum. This app is not only quick and effective but is also highly interactive and intuitive. A LIBS spectrum contains a large number of peaks representing the constituent atoms of the material under investigation. Given the varied nature of these peaks, finding all the peaks of interest is a tedious and often time-consuming task. This GUI can facilitate researchers worldwide who are engaged with LIBS data analysis by streamlining the process, ensuring ease and intuitiveness while also accurately detecting all the desired peaks. Particularly, an option to find the peaks in a sub-spectrm makes it a very powerful tool. The GUI additionally serves as a tool for exploring the spectrum with specialized functionalities of zoom-out and auto-stepper. These options open up a new avenue for LIBS researchers, which will augment their initial data comprehension. The information of the peaks found is saved interactively, which is crucial for various downstream analyses. 
 
 ## The article can be accessed here
-DOI: https://doi.org/10.1039/D3CP01618H
+DOI: Will be updated soon
 
 ## Citation
-Junjuri, R., Saghi, A., Lensu, L., & Vartiainen, E. M. (2023). Evaluating different deep learning models for efficient extraction of Raman signals from CARS spectra. Physical Chemistry Chemical Physics, 25(24), 16340-16353.
+Will be updated soon
 
 ## For more related articles
 https://scholar.google.co.in/citations?user=lCVwC0EAAAAJ&hl=en
