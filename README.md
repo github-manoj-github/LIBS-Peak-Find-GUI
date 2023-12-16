@@ -12,9 +12,9 @@ DOI: Will be updated soon
 
 **1. Prerequisites for Deployment**
 
-Please verify that the _MATLAB Runtime_ version 9.12 (R2022a) is installed on your PC. If not, you can run the _MATLAB Runtime installer_.
+Please verify that the _MATLAB Runtime_ version 9.12 (R2022a) is installed on your PC. 
 
-To find its location, enter >>mcrinstaller at the MATLAB prompt.
+If not, you can run the _MATLAB Runtime installer_. To find its location, enter >>mcrinstaller at the MATLAB prompt.
 
 **NOTE:** You will need administrator rights to run the _MATLAB Runtime installer_. 
 
