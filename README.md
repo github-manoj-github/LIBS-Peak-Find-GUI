@@ -45,7 +45,7 @@ Deployment Product Terms in the MathWorks Documentation
 Center.
 
 ## Test data
-The App is tested on the following samples. All the input files are in _.txt_ format
+The App is tested on the following samples. All the input files are in _.txt_ format.
 
 1.Plastics
 
@@ -59,8 +59,23 @@ The App is tested on the following samples. All the input files are in _.txt_ fo
 
 6.Soil
 
+## Results data
+The output files are stored _.xlsx_ formats with the following filenames
+
+1.Plastics_peaks
+
+2.Silicon_peaks
+
+3.Isomer_peaks
+
+4.Tooth_peaks
+
+5.Nickel_peaks
+
+6.Soil_peaks
+
 ## Citation
-Will be updated soon
+It will be updated soon
 
 ## For more related articles
 https://scholar.google.co.in/citations?user=lCVwC0EAAAAJ&hl=en
