@@ -1,4 +1,4 @@
-# LIBS-Peak-Find-GUI
+# LIBS Peak Find GUI
 ## Peak Finder App: A Graphical User Interface for Quick and Efficient Interactive Detection of Peaks in a LIBS Spectrum
 
 By [Manoj Kumar Gundawar](http://www.acrhem.org/manoj.html) , Amal, and, [Rajendhar junjuri](https://scholar.google.co.in/citations?user=BRu_wuAAAAAJ&hl=en)
