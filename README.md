@@ -63,7 +63,7 @@ The App is tested on the following samples. All the input files are in _.txt_ fo
 6.Soil
 
 ## Results data
-The output files are stored _.xlsx_ formats with the following filenames
+The output files are stored _.xls_ formats with the following filenames
 
 1.Plastics_peaks
 
