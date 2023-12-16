@@ -11,10 +11,9 @@ DOI: Will be updated soon
 ## Citation
 Will be updated soon
 
-## For more related articles
-https://scholar.google.co.in/citations?user=lCVwC0EAAAAJ&hl=en
+## ## Getting Started and Requirements 
 
-## Installation details of the App
+Installation details of the App
 
 **1. Prerequisites for Deployment**
 
@@ -95,5 +94,8 @@ The experimental CARS test data set used in this investigation can only be provi
 ## About the trained model weights
 
 
-## Getting Started and Requirements 
+
 You can use Python (TensorFlow 2.7.0) to test the pre-trained network. We have tested it in Spyder.
+
+## For more related articles
+https://scholar.google.co.in/citations?user=lCVwC0EAAAAJ&hl=en
