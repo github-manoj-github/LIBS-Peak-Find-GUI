@@ -8,7 +8,7 @@ This Graphical User Interface is developed for the detection of peaks in a LIBS 
 ## The article can be accessed here
 DOI: Will be updated soon
 
-## ## Getting Started and Requirements 
+## Getting Started and Requirements 
 
 Installation details of the App
 
