@@ -46,12 +46,17 @@ Center.
 
 ## Test data
 The App is tested on the following samples. All the input files are in .txt format
-1.Plastics
-2.Silicon
-3.Isomer
-4.Tooth
-5.Nicke
-6.Soil
+1.Plastics.txt
+
+2.Silicon.txt
+
+3.Isomer.txt
+
+4.Tooth.txt
+
+5.Nickel.txt
+
+6.Soil.txt
 
 ## Citation
 Will be updated soon
