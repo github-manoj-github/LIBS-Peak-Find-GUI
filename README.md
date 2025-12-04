@@ -6,7 +6,7 @@ By [Manoj Kumar Gundawar](http://www.acrhem.org/manoj.html) , Amal, and, [Rajend
 This Graphical User Interface is developed for the detection of peaks in a LIBS spectrum. This app is not only quick and effective but is also highly interactive and intuitive. This GUI can facilitate researchers worldwide who are engaged with LIBS data analysis by streamlining the process, ensuring ease and intuitiveness while also accurately detecting all the desired peaks.  The information of the peaks found is saved interactively, which is crucial for various downstream analyses. 
 
 ## The article can be accessed here
-DOI: Will be updated soon
+DOI: https://doi.org/10.1007/s12596-025-02796-3
 
 ## Getting Started and Requirements 
 
@@ -78,7 +78,7 @@ The output files are stored _.xls_ formats with the following filenames
 6.Soil_peaks
 
 ## Citation
-It will be updated soon
+Gundawar, M.K., M, A. & Junjuri, R. Peak finder app: a graphical user interface for quick and efficient interactive detection of peaks in a LIBS spectrum. J Opt (2025).
 
 ## For more related articles
 https://scholar.google.co.in/citations?user=lCVwC0EAAAAJ&hl=en
